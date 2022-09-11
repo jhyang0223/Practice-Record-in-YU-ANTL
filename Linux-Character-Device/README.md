@@ -1,7 +1,7 @@
 # Linux-Character-Device
 ## Description
-I implemented exercise example for graduate-level linux kernel programming class. 
-(PPT in this directory is used for a portion of the lecture material) 
+I implemented exercise example for graduate-level linux kernel programming class.  
+(PPT in this directory is used for a portion of the lecture material)  
 I used Raspberry PI
 
 ## Simple GPIO Character Device Driver
