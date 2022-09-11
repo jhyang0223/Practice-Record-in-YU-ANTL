@@ -5,7 +5,7 @@ I implemented exercise example for graduate-level linux kernel programming class
 I used Raspberry PI
 
 ## Simple GPIO Character Device Driver
-This Simple_gpiodev.c module uses only two pins. 
+This simple_gpiodev.c module uses only two pins. 
 - Input pin is BCM 17 pin.
 - Output pin is BCM 27 pin.
 
