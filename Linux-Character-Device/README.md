@@ -17,4 +17,8 @@ When input pin value is 1 to 0, interrupt is generated.
   
 ## Simple GPIO IOCTL
 This code is Simple GPIO Character Device Driver example using IOCTL  
+This ioctl_gpiodev.c module uses only two pins.
+- Output pin is BCM 17 pin or BCM 27 pin.
+- Output pin is changed by using IOCTL function.
+
 user app process has only setting GPIO pin using IOCTL function.
