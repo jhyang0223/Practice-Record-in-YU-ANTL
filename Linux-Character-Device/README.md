@@ -17,5 +17,5 @@ When input pin value is 1 to 0, interrupt is generated.
   - output value toggle.
   - sending MY_SIGNAL(Signal Number is 34).
   
-## GPIO Simple IOCTL
+## Simple GPIO IOCTL
 This code is Simple GPIO Character Device Driver example using IOCTL
